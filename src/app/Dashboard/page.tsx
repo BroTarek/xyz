@@ -1,6 +1,6 @@
 "use client"
 import { DataTable, schema } from '@/components/data-table'
-import { OverviewCharts } from '@/componen../Dashboard/OverviewCharts'
+import { OverviewCharts } from '@/components/Dashboard/OverviewCharts'
 import { z } from "zod"
 
 import data from "@/data.json"
