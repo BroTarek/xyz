@@ -22,8 +22,8 @@ const routes = [
         icon: ClipboardList,
     },
     {
-        name: "Dashboard",
-        path: "/Dashboard",
+        name: "dashboard",
+        path: "/dashboard",
         icon: LayoutDashboard,
     },
     {

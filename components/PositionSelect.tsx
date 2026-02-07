@@ -22,26 +22,21 @@ import { Input } from "@/components/ui/input";
 
 // Sales-related positions data
 const SALES_POSITIONS = [
-    "Sales Manager",
-    "Account Executive",
-    "Business Development Representative",
-    "Sales Director",
-    "Account Manager",
-    "Sales Engineer",
-    "Regional Sales Manager",
-    "Sales Consultant",
-    "Inside Sales Representative",
-    "Sales Operations Manager",
-    "VP of Sales",
-    "Chief Revenue Officer",
-    "Sales Development Representative",
-    "Enterprise Account Executive",
-    "Channel Sales Manager",
-    "Sales Trainer",
-    "Sales Analyst",
-    "Retail Sales Associate",
-    "Field Sales Representative",
-    "Sales Support Specialist",
+    "General Management",
+    "C-Level",
+    "Director",
+    "Department"," Manager",
+    "Manager", 
+    "Sales",
+    "Marketing",
+    "Service",
+    "Parts", 
+    "HR",
+    "Finance",
+    "Digital Marketing",
+    "CRM/CX", 
+    "Logistics",
+    "Product"
 ];
 
 interface PositionSelectProps {
